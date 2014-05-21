@@ -2,9 +2,9 @@ package com.example.mobgame.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
-import android.os.Build;
 import android.view.View;
 import android.view.WindowManager;
+import android.os.*;
 
 /**
  * An API 11+ implementation of {@link SystemUiHider}. Uses APIs available in
