@@ -3,6 +3,8 @@
 
     <string name="app_name">MobGame</string>
     <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_content">Водяной\nЗНАК</string>
+    <string name="button_character">Персонаж</string>
+    <string name="button_building">Строения</string>
 
 </resources>
